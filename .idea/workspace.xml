@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62e8c423-c5ca-4cc0-aec8-c4f2c778f3fc" name="Default Changelist" comment="" />
+    <list default="true" id="62e8c423-c5ca-4cc0-aec8-c4f2c778f3fc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tdd/Kitchen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/KitchenTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +19,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +30,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1aJ81Fnienz0jGVvQiVb4Tezt3b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,15 +40,21 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunManager" selected="Android JUnit.CodeupCryptTest.testHashPassword">
     <configuration name="CodeupCryptTest.testHashPassword" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="unit-testing" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="crypt.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,7 +116,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586442118198</updated>
-      <workItem from="1586442119908" duration="6110000" />
+      <workItem from="1586442119908" duration="8434000" />
     </task>
     <servers />
   </component>
@@ -107,21 +124,25 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="207" key="GridCell.Tab.0.bottom" timestamp="1586448988989">
+    <state x="973" y="333" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586463477403">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state width="1398" height="207" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1586448988989" />
-    <state width="1398" height="207" key="GridCell.Tab.0.center" timestamp="1586448988988">
+    <state x="973" y="333" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.830@0.23.1440.830" timestamp="1586463477403" />
+    <state width="1398" height="207" key="GridCell.Tab.0.bottom" timestamp="1586449248811">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state width="1398" height="207" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1586448988988" />
-    <state width="1398" height="207" key="GridCell.Tab.0.left" timestamp="1586448988988">
+    <state width="1398" height="207" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1586449248811" />
+    <state width="1398" height="207" key="GridCell.Tab.0.center" timestamp="1586449248810">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state width="1398" height="207" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1586448988988" />
-    <state width="1398" height="207" key="GridCell.Tab.0.right" timestamp="1586448988988">
+    <state width="1398" height="207" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1586449248810" />
+    <state width="1398" height="207" key="GridCell.Tab.0.left" timestamp="1586449248809">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state width="1398" height="207" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1586448988988" />
+    <state width="1398" height="207" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1586449248809" />
+    <state width="1398" height="207" key="GridCell.Tab.0.right" timestamp="1586449248811">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1398" height="207" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1586449248811" />
   </component>
 </project>
